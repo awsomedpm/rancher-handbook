@@ -1,11 +1,9 @@
-# Rancher实战
-
-Rancher 企业级多集群Kubernetes管理平台
+# Summary
 
 * [简介](README.md)
 * [架构](architecture/architecture.md)
 * [安装](installation/installation.md)
-    * [ucloud 上快速部署单节点rancher和单节点k8s](installation/ucloud-rancher.md)
+    * [ucloud 上快速部署单节点rancher和电单节点k8s](installation/ucloud-rancher.md)
     * [京东云上使用 Helm 安装部署高可用Rancher HA](installation/jdcloud-rke-rancher-ha.md)
     * [Mac安装客户端工具](installation/mac-client.md)
     * [清理脚本](installation/clean.md)
@@ -18,7 +16,7 @@ Rancher 企业级多集群Kubernetes管理平台
 * [应用商店](catalog/catalog.md)
 * [镜像库](registry/registry.md)
     * [Harbor 介绍](registry/harbor-introduction.md)
-    * [离线安装最新的Harbor 1.7.5](registry/harbor-offline.md)
+    * [离线安装最新的 Harbor 1.7.5](registry/harbor-offline.md)
 * [安全](security/security.md)
 * [存储](storage/storage.md)
     * [NFS简介](storage/nfs-introduction.md)
