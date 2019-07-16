@@ -33,7 +33,7 @@ CentOS Linux release 7.5.1804 (Core)
 [updates-centos7.sh](update-centos7.sh)
 
 ```
-# curl https://dclingcloud.github.io/rancher-in-action/installation/update-centos7.sh  | bash -
+# curl https://onedpm.github.io/rancher-handbook/installation/update-centos7.sh  | bash -
 ```
 同时创建 rancher 普通用户并将其加入docker组
 
